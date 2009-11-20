@@ -8,12 +8,12 @@
 Summary:	HTML::StripScripts - Strip scripting constructs out of HTML
 Summary(pl.UTF-8):	HTML::StripScripts - wyciągnij konstrukcje skryptowe poza HTML
 Name:		perl-HTML-StripScripts
-Version:	1.04
+Version:	1.05
 Release:	1
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/HTML/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	aecd01e273bddbf60dca2a923163826d
+# Source0-md5:	e8c51fbfda69efaf94c2937084d2458f
 URL:		http://search.cpan.org/dist/HTML-StripScripts/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
