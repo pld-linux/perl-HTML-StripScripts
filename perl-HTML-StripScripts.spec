@@ -53,7 +53,7 @@ bez wprowadzania wrażliwości XSS (cross site scripting).
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 %{__perl} Makefile.PL \
